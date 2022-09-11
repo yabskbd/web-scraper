@@ -1,0 +1,854 @@
+<tbody class="Table__TBODY">
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="0">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/41/uconn-huskies" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/41/uconn-huskies" tabindex="0">
+      UConn
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/130/michigan-wolverines" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <span class="pr2">
+      4
+     </span>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/130/michigan-wolverines" tabindex="0">
+      Michigan
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401404149" tabindex="0">
+    12:00 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <a class="AnchorLink network-container_link" href="/watch/" tabindex="0">
+     <figure class="Image aspect-ratio--parent Logo__Network network-abc">
+      <div class="RatioFrame aspect-ratio--auto">
+      </div>
+      <div class="Image__Wrapper Image__Wrapper--relative">
+       <img alt="ABC" class="" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+      </div>
+     </figure>
+    </a>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/michigan-wolverines-football-tickets-michigan-stadium-9-17-2022--sports-ncaa-football/production/3741622?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $27
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/michigan-stadium-mi/48104/hourly-weather-forecast/53592_poi?day=7&amp;hbhhour=12&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Michigan Stadium, Ann Arbor, MI
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="1">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/201/oklahoma-sooners" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <span class="pr2">
+      7
+     </span>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/201/oklahoma-sooners" tabindex="0">
+      Oklahoma
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/158/nebraska-cornhuskers" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/158/nebraska-cornhuskers" tabindex="0">
+      Nebraska
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401404070" tabindex="0">
+    12:00 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <div class="network-name fox">
+     FOX
+    </div>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/nebraska-cornhuskers-football-tickets-nebraska-memorial-stadium-9-17-2021--sports-ncaa-football/production/3757641?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $198
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/memorial-stadium-ne/68510/hourly-weather-forecast/53607_poi?day=7&amp;hbhhour=11&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Memorial Stadium (Lincoln, NE), Lincoln, NE
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="2">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <span>
+      Southern Illinois
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/77/northwestern-wildcats" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/77/northwestern-wildcats" tabindex="0">
+      Northwestern
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401405083" tabindex="0">
+    12:00 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <div class="network-name btn">
+     BTN
+    </div>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/northwestern-wildcats-football-tickets-ryan-field-9-17-2022--sports-ncaa-football/production/3784084?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $6
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/ryan-field-il/60202/hourly-weather-forecast/53570_poi?day=7&amp;hbhhour=11&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Ryan Field, Evanston, IL
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="3">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2509/purdue-boilermakers" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2509/purdue-boilermakers" tabindex="0">
+      Purdue
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/183/syracuse-orange" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/183/syracuse-orange" tabindex="0">
+      Syracuse
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401405084" tabindex="0">
+    12:00 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <a class="AnchorLink network-container_link" href="/watch/" tabindex="0">
+     <figure class="Image aspect-ratio--parent Logo__Network network-espn2">
+      <div class="RatioFrame aspect-ratio--auto">
+      </div>
+      <div class="Image__Wrapper Image__Wrapper--relative">
+       <img alt="ESPN2" class="" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+      </div>
+     </figure>
+    </a>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/syracuse-orange-football-tickets-carrier-dome-9-17-2022--sports-ncaa-football/production/3850372?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $8
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/carrier-dome-ny/13202/hourly-weather-forecast/53614_poi?day=7&amp;hbhhour=12&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     JMA Wireless Dome, Syracuse, NY
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="4">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/98/western-kentucky-hilltoppers" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/98/western-kentucky-hilltoppers" tabindex="0">
+      Western Kentucky
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/84/indiana-hoosiers" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/84/indiana-hoosiers" tabindex="0">
+      Indiana
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401426563" tabindex="0">
+    12:00 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <div class="network-name btn">
+     BTN
+    </div>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/indiana-hoosiers-football-tickets-memorial-stadium-in-9-17-2022--sports-ncaa-football/production/3784103?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $23
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/memorial-stadium-in/47408/hourly-weather-forecast/53572_poi?day=7&amp;hbhhour=12&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Memorial Stadium (Bloomington, IN), Bloomington, IN
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="5">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/164/rutgers-scarlet-knights" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/164/rutgers-scarlet-knights" tabindex="0">
+      Rutgers
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/218/temple-owls" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/218/temple-owls" tabindex="0">
+      Temple
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401405089" tabindex="0">
+    2:00 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <a class="AnchorLink network-container_link" href="http://www.espn.com/watch/espnplus" tabindex="0">
+     <img alt="ESPN+" class="Image Logo__Network network-espn+" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+    </a>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/temple-owls-football-tickets-lincoln-financial-field-9-17-2022--sports-ncaa-football/production/3861939?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $41
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    Lincoln Financial Field, Philadelphia, PA
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="6">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/166/new-mexico-state-aggies" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/166/new-mexico-state-aggies" tabindex="0">
+      New Mexico State
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/275/wisconsin-badgers" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <span class="pr2">
+      19
+     </span>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/275/wisconsin-badgers" tabindex="0">
+      Wisconsin
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401405085" tabindex="0">
+    3:30 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <div class="network-name btn">
+     BTN
+    </div>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/wisconsin-badgers-football-tickets-camp-randall-stadium-9-17-2022--sports-ncaa-football/production/3741536?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $21
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/camp-randall-stadium-wi/53706/hourly-weather-forecast/53663_poi?day=7&amp;hbhhour=14&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Camp Randall Stadium, Madison, WI
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="7">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/213/penn-state-nittany-lions" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/213/penn-state-nittany-lions" tabindex="0">
+      Penn State
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2/auburn-tigers" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2/auburn-tigers" tabindex="0">
+      Auburn
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401403882" tabindex="0">
+    3:30 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <div class="network-name cbs">
+     CBS
+    </div>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/auburn-tigers-football-tickets-jordanhare-stadium-9-17-2022/production/3647773?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $160
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/jordan-hare-stadium-al/36830/hourly-weather-forecast/53528_poi?day=7&amp;hbhhour=14&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Jordan-Hare Stadium, Auburn, AL
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="8">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/38/colorado-buffaloes" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/38/colorado-buffaloes" tabindex="0">
+      Colorado
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/135/minnesota-golden-gophers" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/135/minnesota-golden-gophers" tabindex="0">
+      Minnesota
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401403988" tabindex="0">
+    3:30 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <a class="AnchorLink network-container_link" href="/watch/" tabindex="0">
+     <figure class="Image aspect-ratio--parent Logo__Network network-espn2">
+      <div class="RatioFrame aspect-ratio--auto">
+      </div>
+      <div class="Image__Wrapper Image__Wrapper--relative">
+       <img alt="ESPN2" class="" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+      </div>
+     </figure>
+    </a>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/minnesota-golden-gophers-football-tickets-huntington-bank-stadium-9-17-2022--sports-ncaa-football/production/3741543?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $39
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/huntington-bank-stadium-mn/55415/hourly-weather-forecast/53596_poi?day=7&amp;hbhhour=14&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Huntington Bank Stadium, Minneapolis, MN
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="9">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2649/toledo-rockets" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2649/toledo-rockets" tabindex="0">
+      Toledo
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/194/ohio-state-buckeyes" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <span class="pr2">
+      3
+     </span>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/194/ohio-state-buckeyes" tabindex="0">
+      Ohio State
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401405088" tabindex="0">
+    7:00 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <div class="network-name fox">
+     FOX
+    </div>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/ohio-state-buckeyes-football-tickets-ohio-stadium-9-17-2022--sports-ncaa-football/production/3741560?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $50
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/ohio-stadium-oh/43215/hourly-weather-forecast/53621_poi?day=7&amp;hbhhour=19&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Ohio Stadium, Columbus, OH
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="10">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/127/michigan-state-spartans" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <span class="pr2">
+      14
+     </span>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/127/michigan-state-spartans" tabindex="0">
+      Michigan State
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/264/washington-huskies" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/264/washington-huskies" tabindex="0">
+      Washington
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401403994" tabindex="0">
+    7:30 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <a class="AnchorLink network-container_link" href="/watch/" tabindex="0">
+     <figure class="Image aspect-ratio--parent Logo__Network network-abc">
+      <div class="RatioFrame aspect-ratio--auto">
+      </div>
+      <div class="Image__Wrapper Image__Wrapper--relative">
+       <img alt="ABC" class="" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+      </div>
+     </figure>
+    </a>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/washington-huskies-football-tickets-husky-stadium-wa-9-17-2022--sports-ncaa-football/production/3805904?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $83
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/husky-stadium-wa/98104/hourly-weather-forecast/53661_poi?day=7&amp;hbhhour=16&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Husky Stadium, Seattle, WA
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="11">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2440/nevada-wolf-pack" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2440/nevada-wolf-pack" tabindex="0">
+      Nevada
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2294/iowa-hawkeyes" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2294/iowa-hawkeyes" tabindex="0">
+      Iowa
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401405082" tabindex="0">
+    7:30 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <div class="network-name btn">
+     BTN
+    </div>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/iowa-hawkeyes-football-tickets-kinnick-stadium-9-17-2021--sports-ncaa-football/production/3766580?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $57
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/kinnick-stadium-ia/52240/hourly-weather-forecast/53565_poi?day=7&amp;hbhhour=18&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Kinnick Stadium, Iowa City, IA
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+ <tr class="Table__TR Table__TR--sm Table__even" data-idx="12">
+  <td class="events__col Table__TD">
+   <div class="matchTeams">
+    <span class="Table__Team away">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2567/smu-mustangs" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/2567/smu-mustangs" tabindex="0">
+      SMU
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="colspan__col Table__TD">
+   <div class="local flex items-center">
+    <span class="at">
+     @
+    </span>
+    <span class="Table__Team">
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/120/maryland-terrapins" tabindex="0">
+      <img alt="" class="Image Logo v-mid team__logo Logo__sm" data-mptype="image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+     </a>
+     <a class="AnchorLink" data-track-linkid="ncf:schedule:team" data-track-navmethod="schedule" href="/college-football/team/_/id/120/maryland-terrapins" tabindex="0">
+      Maryland
+     </a>
+    </span>
+   </div>
+  </td>
+  <td class="date__col Table__TD">
+   <a class="AnchorLink" href="/college-football/game?gameId=401405087" tabindex="0">
+    7:30 PM
+   </a>
+  </td>
+  <td class="broadcast__col Table__TD">
+   <div class="network-container">
+    <div class="network-name fs1">
+     FS1
+    </div>
+   </div>
+  </td>
+  <td class="tickets__col Table__TD">
+   <a class="AnchorLink TicketsColumn" href="https://www.vividseats.com/maryland-terrapins-football-tickets-maryland-stadium-9-17-2022--sports-ncaa-football/production/3765764?wsUser=717&amp;wsVar=us~college-football~schedule,college-football,en" rel="noopener" tabindex="0" target="_blank">
+    <span>
+     Tickets as low as $3
+     <svg aria-hidden="true" class="external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </span>
+   </a>
+  </td>
+  <td class="venue__col Table__TD">
+   <div>
+    <a class="AnchorLink" href="http://www.accuweather.com/en/us/capital-one-field-at-maryland-stadium-md/20740/hourly-weather-forecast/53588_poi?day=7&amp;hbhhour=19&amp;lang=en-us&amp;partner=espn_gc" rel="noopener" tabindex="0" target="_blank">
+     Maryland Stadium, College Park, MD
+     <svg aria-hidden="true" class="icon--external ml2 icon__svg" viewbox="0 0 24 24">
+      <use xlink:href="#icon__external">
+      </use>
+     </svg>
+    </a>
+   </div>
+  </td>
+ </tr>
+</tbody>

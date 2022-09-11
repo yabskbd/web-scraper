@@ -1,0 +1,26 @@
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401404149" tabindex="0">12:00 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401404070" tabindex="0">12:00 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401405083" tabindex="0">12:00 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401405084" tabindex="0">12:00 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401426563" tabindex="0">12:00 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401405089" tabindex="0">2:00 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401405085" tabindex="0">3:30 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401403882" tabindex="0">3:30 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401403988" tabindex="0">3:30 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401405088" tabindex="0">7:00 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401403994" tabindex="0">7:30 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401405082" tabindex="0">7:30 PM</a></td>
+
+<td class="date__col Table__TD"><a class="AnchorLink" href="/college-football/game?gameId=401405087" tabindex="0">7:30 PM</a></td>
+
